@@ -1,1 +1,2 @@
-���°�chrome��ʵ�鹦�ܺ�IDM���ͻ����ַ������chrome://flags/#network-service���ҵ�Enable networkservice��ѡ�����disabled��������������ɡ�
+最新版chrome的实验功能和IDM起冲突，地址栏输入chrome://flags/#network-service，找到Enable networkservice，选择禁用disabled，重启浏览器即可。
+假如在B站的下载视频按钮依然没有出现，只需把B站的播放器改为Flash播放即可。
